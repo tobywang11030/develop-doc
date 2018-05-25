@@ -12,7 +12,11 @@ http://www.html5tricks.com/demo/150-css3-svg-icons/index.html
 <br/>
 https://fontawesome.com/?from=io
 ## React视频教程
+https://ke.qq.com/course/293454
+<br/>
 https://www.rails365.net/playlists/you-ren-de-react-shi-pin-jiao-cheng-ji-chu-pian
+## React中文文档
+https://doc.react-china.org/
 ## React Demo项目以及学习心得
 https://github.com/tobywang11030/react-pxq/blob/master/README.md
 ## 免费PDF教程下载
