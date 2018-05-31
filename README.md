@@ -25,3 +25,5 @@ https://www.ckook.com/
 http://freepdf-books.com/
 ## 在线正则
 https://www.regextester.com/
+## SpringMVC视频教程
+http://www.jikexueyuan.com/course/springmvc/
