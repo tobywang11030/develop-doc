@@ -1,6 +1,9 @@
 # develop-doc
 后端和前端相关资料和教程以及工具汇总
 
+
+## SSO单点登录视频教程
+https://ke.qq.com/course/295318
 ## 在线Mock
 https://easy-mock.com/login
 ## ES6视频教程
