@@ -30,3 +30,9 @@ http://freepdf-books.com/
 https://www.regextester.com/
 ## SpringMVC视频教程
 http://www.jikexueyuan.com/course/springmvc/
+## Netty网络编程框架
+http://www.bjsxt.com/down/3219.html
+## 并发编程
+http://www.bjsxt.com/down/3153.html
+## 高淇Java300集视频教程
+http://www.bjsxt.com/down/3139.html
